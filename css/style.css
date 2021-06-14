@@ -1261,14 +1261,13 @@ Topbar
   z-index: 1;
   transition: all .4s ease-in-out;
   height: 80px;
-  padding-top: 15px;
 }
-#header .header-inner #logo a > img, #header #header-wrap #logo a > img {
+#header .header-inner #logo a > img,
+#header #header-wrap #logo a > img {
   vertical-align: inherit;
   transition: all .4s ease-in-out;
-  height: 73px;
+  height: 80px;
   width: auto;
-  padding-top: 15px;
 }
 #header .header-inner #logo a > img,
 #header .header-inner #logo a [class*="logo-"],
