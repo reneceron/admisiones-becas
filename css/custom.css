@@ -36,3 +36,11 @@ i:not(.fa):not(.fab):not(.far):not(.fas) {
   padding-top: 80px;
   padding-bottom: 80px;
 }
+#footer .copyright-content {
+  min-height: 80px;
+  padding: 30px 0;
+  background-color: #252525;
+  font-size: 13px;
+  color: white;
+}
+
