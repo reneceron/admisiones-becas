@@ -15,3 +15,19 @@ body .body-inner {
   height: 73px;
   padding-top: 15px;
 }
+
+@media (max-width: 1024px){
+.header-extras > ul .p-dropdown > a > i, .header-extras > ul > li > a > i {
+    font-size: 25px !important;
+}
+}
+
+i:not(.fa):not(.fab):not(.far):not(.fas) {
+  font-size: 25px;
+}
+
+.header-extras > ul > li .p-dropdown a > span {
+  top: -12px;
+  font-size: 11px;
+  right: -9px;
+}
