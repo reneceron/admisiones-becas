@@ -36,3 +36,7 @@ i:not(.fa):not(.fab):not(.far):not(.fas) {
   right: -9px;
 }
 
+.inspiro-slider .slide .container, .inspiro-slider .slide .container-wide {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
