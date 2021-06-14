@@ -20,6 +20,10 @@ body .body-inner {
 .header-extras > ul .p-dropdown > a > i, .header-extras > ul > li > a > i {
     font-size: 25px !important;
 }
+.inspiro-slider .container {
+  padding-left: 20px;
+  padding-right: 20px;
+}
 }
 
 i:not(.fa):not(.fab):not(.far):not(.fas) {
@@ -31,3 +35,4 @@ i:not(.fa):not(.fab):not(.far):not(.fas) {
   font-size: 11px;
   right: -9px;
 }
+
